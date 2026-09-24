@@ -18,23 +18,21 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Sistema de Gestão Sustentável de Resíduos Eletrônicos]`
+`[Sustentabilidade na Gestão de Resíduos Eletrônicos]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[SUSTENTABILIDADE + TI]`
-- Objeto estudado: `[Plataforma]`
-- Contexto ou aplicação: `[Plataforma para cadastrar computadores, celulares e outros eletrônicos para descarte, doação ou reciclagem.]`
-- Aspecto que será analisado: `[Envolve banco de dados, usuários, pontos de coleta e gerenciamento de materiais.
+- Tema amplo: `[Sustentabilidade e Tecnologia da Informação]`
+- Objeto estudado: `[Gestão e descarte de resíduos eletrônicos]`
+- Contexto ou aplicação: `[Práticas de gerenciamento, descarte, reutilização e reciclagem de equipamentos eletrônicos.]`
+- Aspecto que será analisado: `[A contribuição da Tecnologia da Informação para uma gestão mais sustentável dos resíduos eletrônicos, considerando práticas de descarte, reutilização, reciclagem e gerenciamento desses materiais.
 ]`
-- O que ficará fora do estudo: `[Sistema de Gestão Sustentável de Resíduos Eletrônicos
-Plataforma para cadastrar computadores, celulares e outros eletrônicos para descarte, doação ou reciclagem.
-Envolve banco de dados, usuários, pontos de coleta e gerenciamento de materiais.
+- O que ficará fora do estudo: `[Processos industriais de reciclagem, fabricação de equipamentos eletrônicos ou análises técnicas aprofundadas sobre componentes e materiais.]
 `
 
 ### Justificativa
 
-`[Escolhemos esse tema porque o descarte correto de eletrônicos é um problema cada vez mais presente. A tecnologia pode ajudar a organizar esse processo, incentivar a reutilização e facilitar o acesso a pontos de coleta, contribuindo para a preservação do meio ambiente e para um uso mais consciente dos recursos.]`
+`[Escolhemos esse tema devido ao aumento do descarte de equipamentos eletrônicos e aos impactos ambientais relacionados a esse problema. O estudo busca compreender, por meio de pesquisas científicas, como a Tecnologia da Informação pode contribuir para uma gestão mais sustentável desses resíduos, incentivando práticas de descarte, reutilização e reciclagem.]`
 
 ### Viabilidade
 
@@ -44,8 +42,8 @@ Envolve banco de dados, usuários, pontos de coleta e gerenciamento de materiais
 
 ## Produto da etapa
 
-Sistema de Gestão Sustentável de Resíduos Eletrônicos.
-Escolhemos esse tema porque o descarte incorreto de eletrônicos pode causar impactos ambientais e ainda desperdiçar equipamentos que poderiam ser reutilizados. A proposta é utilizar a Tecnologia da Informação para facilitar o descarte, a doação e a reciclagem, contribuindo para uma solução mais sustentável e acessível.
+Sustentabilidade na Gestão de Resíduos Eletrônicos.
+O estudo busca analisar, por meio de uma revisão bibliográfica, os impactos do descarte inadequado de resíduos eletrônicos e as contribuições da Tecnologia da Informação para práticas mais sustentáveis de gestão, reutilização e reciclagem desses materiais.
 
 ## Checklist
 
