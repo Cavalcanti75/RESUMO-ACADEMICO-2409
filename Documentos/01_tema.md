@@ -23,7 +23,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[Sustentabilidade e Tecnologia da Informação]`
-- Objeto estudado: `[Gestão e descarte de resíduos eletrônicos]`
+- Objeto estudado: `[Resíduos eletrônicos]`
 - Contexto ou aplicação: `[Práticas de gerenciamento, descarte, reutilização e reciclagem de equipamentos eletrônicos.]`
 - Aspecto que será analisado: `[A contribuição da Tecnologia da Informação para uma gestão mais sustentável dos resíduos eletrônicos, considerando práticas de descarte, reutilização, reciclagem e gerenciamento desses materiais.
 ]`
