@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[Sustentabilidade na Gestão de Resíduos Eletrônicos: contribuições da Tecnologia da Informação]`
+`[Sustentabilidade na Gestão de Resíduos Eletrônicos]`
 
 ## Pergunta de pesquisa
 
