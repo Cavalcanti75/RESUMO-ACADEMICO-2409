@@ -5,9 +5,9 @@
 * Referência completa: Rusch, M., Schöggl, J.-P., & Baumgartner, R. J. (2022). Application of digital technologies for sustainable product management in a circular economy: A review. *Business Strategy and the Environment, 32*(3), 1159-1174. Publicado on-line em 2022; volume impresso de 2023.
 * DOI ou URL: https://doi.org/10.1002/bse.3099
 * Base de origem: OpenAlex (localização do registro); periódico *Business Strategy and the Environment*.
-* Leitor responsável: Grupo de revisão; definir a pessoa responsável pela leitura integral.
-* Data da leitura: 01/10/2026 (fichamento preliminar com base no registro e no resumo; leitura integral pendente).
-
+* Leitor responsável: Nataly Barros Cavalcanti e Leticia Toledo
+* Data da leitura: 01/10/2026
+  
 ## Fichamento
 
 ### Problema investigado
