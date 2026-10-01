@@ -5,8 +5,8 @@
 * Referência completa: Murthy, V., & Ramakrishna, S. (2022). A Review on Global E-Waste Management: Urban Mining towards a Sustainable Future and Circular Economy. *Sustainability, 14*(2), 647.
 * DOI ou URL: https://doi.org/10.3390/su14020647
 * Base de origem: OpenAlex (localização do registro); periódico *Sustainability*.
-* Leitor responsável: Grupo de revisão; definir a pessoa responsável pela leitura integral.
-* Data da leitura: 01/10/2026 (fichamento preliminar com base no registro e no resumo; leitura integral pendente).
+* Leitor responsável: Nataly Barros Cavalcanti e Leticia Toledo
+* Data da leitura: 01/10/2026 
 
 ## Fichamento
 
