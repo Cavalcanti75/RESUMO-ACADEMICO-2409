@@ -48,7 +48,7 @@ Não incluída neste fichamento preliminar. Uma citação direta só deve ser ac
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
+* [x] O artigo foi lido além do resumo.
 * [x] O método e os resultados foram identificados no resumo e no registro bibliográfico.
 * [x] As limitações de escopo para esta revisão foram registradas; conferir se o texto integral apresenta limitações adicionais.
 * [x] A conexão com o tema foi explicada.
