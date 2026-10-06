@@ -5,8 +5,8 @@
 * Referência completa: Van Yken, J., Boxall, N. J., Cheng, K. Y., Nikoloski, A. N., Moheimani, N. R., & Kaksonen, A. H. (2021). E-Waste Recycling and Resource Recovery: A Review on Technologies, Barriers and Enablers with a Focus on Oceania. *Metals, 11*(8), 1313.
 * DOI ou URL: https://doi.org/10.3390/met11081313
 * Base de origem: OpenAlex (localização do registro); periódico *Metals*.
-* Leitor responsável: Grupo de revisão; definir a pessoa responsável pela leitura integral.
-* Data da leitura: 01/10/2026 (fichamento preliminar com base no registro e no resumo; leitura integral pendente).
+* Leitor responsável: Nataly Barros Cavalcanti e Leticia Toledo
+* Data da leitura: 05/10/2026
 
 ## Fichamento
 
