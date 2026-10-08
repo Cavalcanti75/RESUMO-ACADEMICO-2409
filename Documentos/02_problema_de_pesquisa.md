@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[Samuel Bole]` |
+| `[Samuel Bole]` | `[Atividade 02]` |
