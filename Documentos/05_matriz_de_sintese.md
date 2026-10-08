@@ -43,7 +43,11 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Síntese crítica provisória
 
-Em conjunto, os artigos sugerem que uma gestão melhor dos resíduos eletrônicos depende tanto de coleta e reciclagem organizadas quanto de informações confiáveis sobre o caminho dos materiais. Dimić-Misić et al. analisam diretamente o possível uso da blockchain para rastrear resíduos, registrar etapas e apoiar auditorias, mas observam que a tecnologia não corrige dados falsos e que seus benefícios precisam ser medidos. Murthy e Ramakrishna discutem os desafios das políticas e da gestão global, enquanto Van Yken et al. tratam de tecnologias e obstáculos ligados à reciclagem e à recuperação de materiais. Assim, os estudos indicam que a TI pode ser um apoio, mas não provam que a blockchain, por si só, aumente a reciclagem no Brasil. Uma lacuna é a falta de avaliações locais que mostrem, com dados, se esses sistemas melhoram a rastreabilidade e a destinação dos resíduos e se são viáveis para os diferentes participantes da cadeia.
+De modo geral, os artigos mostram que melhorar a gestão dos resíduos eletrônicos depende não apenas de uma coleta e reciclagem bem organizadas, mas também de informações confiáveis sobre o destino desses materiais. Dimic-Misic et al. estudam como a blockchain pode ajudar a acompanhar os resíduos, registrar cada etapa do processo e facilitar auditorias. No entanto, os autores destacam que essa tecnologia não resolve problemas relacionados a dados incorretos e que seus benefícios precisam ser avaliados na prática.
+
+Já Murthy e Ramakrishna abordam os desafios das políticas públicas e da gestão global, enquanto Van Yken et al. discutem as tecnologias e as dificuldades envolvidas na reciclagem e na recuperação de materiais. A partir desses estudos, é possível perceber que a tecnologia da informação pode contribuir para uma gestão mais eficiente, mas ainda não há evidências suficientes para afirmar que o uso da blockchain, por si só, aumente a reciclagem no Brasil.
+
+Nesse sentido, uma das principais lacunas identificadas é a falta de estudos realizados no contexto brasileiro que comprovem, por meio de dados, se esses sistemas realmente melhoram o rastreamento e a destinação dos resíduos eletrônicos. Também é importante avaliar se sua implementação é viável para os diferentes participantes envolvidos nesse processo.
 
 ## Referências selecionadas
 
