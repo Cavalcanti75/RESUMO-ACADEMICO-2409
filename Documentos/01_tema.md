@@ -57,4 +57,4 @@ O estudo busca analisar, por meio de uma revisão bibliográfica, os impactos do
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[NATALY CAVALCANTI]` |
+| `[NATALY CAVALCANTI]` | `[Atividade 01]` |
